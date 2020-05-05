@@ -1,4 +1,4 @@
-Click [HERE](https://let-def.github.io/insydious) to run the unlocker.
+Click [HERE](https://anantamishra.github.io/acer-bios-unlocker/) to run the unlocker.
 
 # Story
 
@@ -22,8 +22,5 @@ Unfortunately, there was no ressources about the kind of unlocking scheme that o
 
 # TL;DR
 
-This repository contains an OCaml implementation of the lock code derivation scheme that is compiled to javascript accessible [here](https://let-def.github.io/insydious).
+This repository contains an OCaml implementation of the lock code derivation scheme that is compiled to javascript accessible [here](https://anantamishra.github.io/acer-bios-unlocker/).
 
-# Long story
-
-Coming soon: blog post about how to reimplement the derivation scheme.
